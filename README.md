@@ -4,8 +4,6 @@
 
 I’m a **marketing strategist turned data scientist**, passionate about **Python, analytics, and AI-driven marketing**. With 15+ years in **growth marketing, performance optimization, and marketing technology**, Currently studying Data Science and at Code Academy Berlin and I’m now making a **career pivot into Data Science** in **Berlin**.  
 
-🌍 **Worked across India, US, Middle East (Dubai), and now in Berlin!**  
-
 ---
 
 ## 🚀 About Me  
@@ -19,7 +17,7 @@ I’m a **marketing strategist turned data scientist**, passionate about **Pytho
 ✅ **India** – Early career in digital marketing & analytics  
 ✅ **United States** – Managed cross-border campaigns & growth strategies  
 ✅ **Middle East (Dubai)** – Led growth & performance marketing for **Careem, Virgin Mobile, STARZ ON, Namshi**  
-✅ **Berlin, Germany** – After a few roles in marketing, now transitioning into **Data Science**  
+✅ **Berlin, Germany** – After a few roles in marketing, now transitioning into **Data Science** for Marketing 
 
 ---
 
