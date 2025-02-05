@@ -4,7 +4,7 @@
 
 I’m working on making **marketing more data-driven** by using **statistical analysis and automation with Python scripts**.  
 
-🌍 **Worked across India, US, Middle East (Dubai), and now in Berlin, 
+🌍 **Worked** across India, US, Middle East (Dubai), and now in Berlin, 
 
 ## 🌍 Let's Connect!  
 📩 **Email**: rakeshtparayil@gmail.com  
