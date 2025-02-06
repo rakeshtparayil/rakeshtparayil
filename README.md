@@ -15,9 +15,8 @@ GA4, SKAN4, MMM, MTA, Amplitude, Braze, AppsFlyer, GTM
 **</> Data Science & Python**  
 Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau  
 
-**🎯 Performance Marketing**  
+**🎯 Performance Marketing**
 Google Ads, Meta, TikTok, Programmatic, Affiliate Marketing  
----
 
 🌍 **Worked** across India, US, Middle East (Dubai), and now in Berlin, 
 
