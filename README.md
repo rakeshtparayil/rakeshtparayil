@@ -1,8 +1,23 @@
-# Hey ho! I'm Rakesh Ramesh 👋  
+# Hey ! I'm Rakesh Ramesh 👋  
 
-🚀 **Growth Marketer | Data Enthusiast | Python Lover**  
+🚀 **Growth Marketer (App and Web)| Data Enthusiast | Python Lover**  
 
-I’m working on making **marketing more data-driven** by using **statistical methods and automation with Python scripts**.  
+## 💡 What I Do  
+- ❤️ **Growth Marketer** – Optimizing channel spend, A/B testing to drive efficent ROAS/CAC/LTV.  
+- </>**Python for Marketing** – Automating insights & workflows with Python scripts.  
+- 📈 **Data-Driven Decisions** – Leveraging analytics, statistics, and automation for impact.  
+- 🍕 **Foodie** – Always exploring new cuisines while discovering new data trends!  
+
+## 💡 Skills & Tools  
+**📊 Marketing Analytics Tools & Attribution**  
+GA4, SKAN4, MMM, MTA, Amplitude, Braze, AppsFlyer, GTM 
+
+**</> Data Science & Python**  
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau  
+
+**🎯 Performance Marketing**  
+Google Ads, Meta, TikTok, Programmatic, Affiliate Marketing  
+---
 
 🌍 **Worked** across India, US, Middle East (Dubai), and now in Berlin, 
 
