@@ -3,11 +3,11 @@
 🚀 **Growth Marketer (App and Web)| Data Enthusiast | Python Lover**  
 
 ## 💡 What I Do  
-- ❤️ **Growth Marketer** – Optimizing channel spend, A/B testing to drive efficent ROAS/CAC/LTV.
-- 🚀 **CRM Expert** – Specialized in Email & Push marketing, leveraging segmentation, automation, and personalization to maximize user engagement and retention.
-- </>**Python for Marketing** – Automating insights & workflows with Python scripts.  
-- 📈 **Data-Driven Decisions** – Leveraging analytics, statistics, and automation for impact.  
-- 🍕 **Foodie** – Always exploring new cuisines while discovering new data trends!  
+❤️ **Growth Marketer** – Optimizing channel spend, A/B testing to drive efficent ROAS/CAC/LTV.
+🚀 **CRM Expert** – Specialized in Email & Push marketing, leveraging segmentation, automation, and personalization to maximize user engagement and retention.
+</>**Python for Marketing** – Automating insights & workflows with Python scripts.  
+📈 **Data-Driven Decisions** – Leveraging analytics, statistics, and automation for impact.  
+🍕 **Foodie** – Always exploring new cuisines while discovering new data trends!  
 
 ## 💡 Skills & Tools  
 **📊 Marketing Analytics Tools & Attribution**  
