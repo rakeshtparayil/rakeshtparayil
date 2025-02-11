@@ -26,3 +26,5 @@ Google Ads, Meta, TikTok, Programmatic, Affiliate Marketing
 📩 **Email**: rakeshtparayil@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/rameshrakesh](https://www.linkedin.com/in/rameshrakesh/)  
 👨‍💻 **GitHub**: [github.com/rakeshtparayil](https://github.com/rakeshtparayil)  
+
+![](https://komarev.com/ghpvc/?username=rakeshtparayil)
