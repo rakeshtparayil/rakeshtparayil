@@ -12,10 +12,10 @@
 
 ## 💡 Skills & Tools  
 **📊 Marketing Analytics Tools & Attribution**  
-GA4, SKAN4, MMM, MTA, Amplitude, Braze, AppsFlyer, GTM 
+GA4, SKAN4, MMM, MTA, Amplitude, Braze, AppsFlyer, GTM, Customer.io
 
 **</> Data Science & Python**  
-Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau, Building MCPs
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau, Building MCPs, Retool
 
 **🎯 Performance Marketing**
 Google Ads, Meta, TikTok, Programmatic, Affiliate Marketing  
