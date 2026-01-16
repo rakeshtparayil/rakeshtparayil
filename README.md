@@ -4,7 +4,7 @@
 
 ## 💡 What I Do
 
-❤️ **Growth Marketer** – Optimizing channel spend, A/B testing to drive efficient ROAS/CAC/LTV.  
+❤️ **Growth Marketer** – Optimizing channel spend, A/B testing (Incrementality tests) to drive efficient ROAS/CAC/LTV.  
 🚀 **CRM Expert** – Specialized in Email & Push marketing, leveraging segmentation, automation, and personalization to maximize user engagement and retention.  
 </> **Python for Marketing** – Automating insights & workflows with Python scripts.  
 📈 **Data-Driven Decisions** – Leveraging analytics, statistics, and automation for impact.  
@@ -15,7 +15,7 @@
 GA4, SKAN4, MMM, MTA, Amplitude, Braze, AppsFlyer, GTM 
 
 **</> Data Science & Python**  
-Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau  
+Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Looker, Tableau, Building MCPs
 
 **🎯 Performance Marketing**
 Google Ads, Meta, TikTok, Programmatic, Affiliate Marketing  
